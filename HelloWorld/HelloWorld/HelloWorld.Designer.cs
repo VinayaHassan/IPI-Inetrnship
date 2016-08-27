@@ -1,6 +1,6 @@
 ﻿namespace helloworld
 {
-    partial class Form1
+    partial class HelloWorld
     {
         /// <summary>
         /// Required designer variable.
